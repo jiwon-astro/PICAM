@@ -26,4 +26,5 @@ The output file is in .txt format and includes exposure information. Supports su
 - Obtains both bias frames (0s exposure) and light frames for each exposure time.
 
 
+<img width="2165" height="2101" alt="ProgramOperationStructure" src="https://github.com/user-attachments/assets/a91ac067-fd59-465d-aab0-e95b1984e471" />
 
